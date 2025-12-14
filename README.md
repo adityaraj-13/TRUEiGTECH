@@ -69,6 +69,13 @@ Role,        Email,                Password,        Access
 Trainer,    trainer@test.com,    password123,       "Can Create/Edit Plans, View Dashboard"
 User,       user@test.com,       password123,       "Can Buy Plans, Follow Trainers, View Feed"
 
+### *** User Login and SignIn
+
+| Role | Email | Password | Access Rights |
+| :--- | :--- | :--- | :--- |
+| **Trainer** | `trainer@test.com` | `password123` | Can Create/Edit Plans, View Dashboard |
+| **User** | `user@test.com` | `password123` | Can Buy Plans, Follow Trainers, View Feed |
+
 How to Test the Logic
 Login as Trainer: Go to the Dashboard and create a plan (e.g., "30 Day Abs"). Add some text in the "Premium Content" box.
 
