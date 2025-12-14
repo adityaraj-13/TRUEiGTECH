@@ -48,15 +48,14 @@ Follow these steps to run the project locally.
 
 ### 1. Clone the Repository
 git clone (https://github.com/adityaraj-13/TRUEiGTECH.git)
-cd FitPlanHub
+cd frontend/fitplan
 
 ### Backend
 cd backend
 npm install
 
-# Create a .env file in the server folder (Optional, defaults used in code)
 # PORT=8080
-# DB_URL=your_mongodb_connection_string
+# DB_URL=mongodb://localhost/fitplan
 
 npm run dev
 
