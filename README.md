@@ -4,8 +4,6 @@
 
 FitPlan Hub is a full-stack web application that demonstrates complex business logic, including Role-Based Access Control (RBAC), subscription-based content locking, and a personalized social feed.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=FitPlan+Hub+Preview) 
-*(Optional: Replace this link with a screenshot of your actual app)*
 
 ---
 
