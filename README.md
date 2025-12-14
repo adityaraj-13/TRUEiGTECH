@@ -79,3 +79,7 @@ Simulate Payment: Click the "Unlock Access" button.
 
 Verify: The page will refresh, the lock will vanish, and the premium content will be visible!
 
+## I have used MongoDB as database so Sir you have to add data to through frontend by connecting with local MongoDB it has two user Trainer & User 
+# Trainer can login/signup goes to dashboard create a plan and edit it & delete it 
+# user can view the Marketplace and check for the plan if want to purchase buy it and get the premium plan
+
