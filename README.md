@@ -47,7 +47,7 @@ FitPlan Hub is a full-stack web application that demonstrates complex business l
 Follow these steps to run the project locally.
 
 ### 1. Clone the Repository
-git clone [https://github.com/YOUR_USERNAME/FitPlanHub.git](https://github.com/YOUR_USERNAME/FitPlanHub.git)
+git clone [[https://github.com/YOUR_USERNAME/FitPlanHub.git]](https://github.com/adityaraj-13/TRUEiGTECH.git)
 cd FitPlanHub
 
 ### Backend
