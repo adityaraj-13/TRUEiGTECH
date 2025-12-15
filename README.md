@@ -100,4 +100,7 @@ Verify: The page will refresh, the lock will vanish, and the premium content wil
 ## I have used MongoDB as database so Sir you have to add data to through frontend by connecting with local MongoDB it has two user Trainer & User 
 # Trainer can login/signup goes to dashboard create a plan and edit it & delete it 
 # user can view the Marketplace and check for the plan if want to purchase buy it and get the premium plan
+## Images:
+<img width="1351" height="632" alt="image" src="https://github.com/user-attachments/assets/c56ca33d-1b19-4bc9-84b8-c53ed882a7f9" />
+<img width="1350" height="634" alt="image" src="https://github.com/user-attachments/assets/8e7d0ad9-75cc-4118-b8d5-ac6df77661dc" />
 
