@@ -76,7 +76,19 @@ User,       user@test.com,       password123,       "Can Buy Plans, Follow Train
 | **Trainer** | `trainer@test.com` | `password123` | Can Create/Edit Plans, View Dashboard |
 | **User** | `user@test.com` | `password123` | Can Buy Plans, Follow Trainers, View Feed |
 
-How to Test the Logic
+---
+## How to Test the Logic
+
+1. signup as a trainer then login go to dashboard
+2. at dashboard a trainer gets create plan button click on it make a plan & create
+3. you can have multiple trainer in same way and each can post their multiple plan along with premium content
+4. then you can see the all listed plans in the market place
+5. Now Signup & login as a new user you can see the marketplace with all the plans
+6. A user can veiw but have to purchase the plan to get access to the premium content
+7. user can follow and unfollow the trainer
+8. My feed Section bring the related feed for the user
+9. At home Purchased plans are seperated from the remaining
+     
 Login as Trainer: Go to the Dashboard and create a plan (e.g., "30 Day Abs"). Add some text in the "Premium Content" box.
 
 Login as User: Go to the Marketplace. You will see the plan, but the content will be LOCKED 🔒.
