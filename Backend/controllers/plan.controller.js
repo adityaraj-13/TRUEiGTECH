@@ -93,6 +93,7 @@ exports.deletePlan = async (req,res) =>{
         if(plan.trainer.toString() !== req.userId.toString()){
             return res.status(401).send({message: "Unauthorized user"});
         }
+        await subscription_model.deleteMany({plan: req.params.id});
         await plan.deleteOne();
         res.status(200).send({message: "Plane deleted successfully"});
 
